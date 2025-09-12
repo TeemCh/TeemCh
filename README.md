@@ -1,7 +1,9 @@
 ### Hi there 👋
-- 🔭 I’m currently working for Accenture
-- 🌱 I’m currently learning PyTorch
-- 📫 How to reach me: https://www.linkedin.com/in/timur-chepiga-199435b3/
+- 🔭 I’m ex-Accenture ex-Aramco analyst
+- 🌱 I’m currently learning AI in general
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/timur-chepiga-199435b3/)  
+- 🎓 Check out my [Master’s degree project](https://github.com/TeemCh/MOBO-for-L-PBF-optimization)  
+- 🛠️ Check out my pet project: [HHRU Analyst Dashboard Search](https://github.com/TeemCh/HHRU-analysis)  
 <!--
 **TeemCh/TeemCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
