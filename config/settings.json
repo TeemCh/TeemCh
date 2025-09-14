@@ -1,0 +1,26 @@
+{
+  "scraping": {
+    "max_posts_per_account": 50,
+    "max_videos_per_account": 50,
+    "rate_limit_delay": 2.0,
+    "headless_browser": true,
+    "max_retries": 3,
+    "timeout_seconds": 30,
+    "instagram_rate_delay": 2.0,
+    "instagram_max_posts": 50,
+    "tiktok_rate_delay": 3.0,
+    "tiktok_max_videos": 50
+  },
+  "google_sheets": {
+    "credentials_path": "config/credentials.json",
+    "spreadsheet_id": null,
+    "auto_create_spreadsheet": true,
+    "spreadsheet_title": "Content Scraping Data",
+    "update_analytics": true
+  },
+  "log_level": "INFO",
+  "log_file": null,
+  "enable_scheduling": false,
+  "schedule_interval_hours": 6,
+  "environment": "development"
+}
