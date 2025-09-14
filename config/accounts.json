@@ -1,0 +1,24 @@
+{
+  "instagram": {
+    "accounts": [
+      "@example_account1",
+      "@example_account2"
+    ],
+    "hashtags": [
+      "#trending",
+      "#viral",
+      "#content"
+    ]
+  },
+  "tiktok": {
+    "accounts": [
+      "@tiktok_user1",
+      "@tiktok_user2"
+    ],
+    "hashtags": [
+      "#fyp",
+      "#viral",
+      "#trending"
+    ]
+  }
+}
